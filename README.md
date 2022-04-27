@@ -1,10 +1,12 @@
 ### Welcome ~👋
 #### I'm Yoosang.
 <img src="/github-profile.jpg" alt="profileImg" align="left" width="200px" />   
-- Seoul National University of Science & Technology Computer Engineering
-- R.O.T.C 61th
-- Endless Creation 29th
-- instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)
+
+
+- Seoul National University of Science & Technology Computer Engineering  
+- R.O.T.C 61th  
+- Endless Creation 29th  
+- instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)  
 
 
 #### My Tech Stack 📚
