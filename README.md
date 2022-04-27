@@ -24,7 +24,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-yarn-579bc4?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-spring-72b34f?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-springboot-7baf4f?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-springboot-7baf4f?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-mysql-4e7499?style=flat-square&logo=mysql&logoColor=white" />
   
 </p>
