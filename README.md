@@ -1,8 +1,6 @@
-### Hi there 👋
+### Welcome ~👋
 
-<!--
-**EomYoosang/EomYoosang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="/KakaoTalk_20220428_001422393.jpg" alt="profileImg" align="left" width="200px" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
