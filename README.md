@@ -11,7 +11,7 @@
 
 
 #### My Tech Stack 📚
-<p>
+<p width="600">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-nginx-419345?style=flat-square&logo=nginx&logoColor=white" />
