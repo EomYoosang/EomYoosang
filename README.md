@@ -4,7 +4,7 @@
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-46a2f1?style=flat-square&logo=jenkinsr&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffffff?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
