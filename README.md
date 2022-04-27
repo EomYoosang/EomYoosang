@@ -7,13 +7,14 @@
 - R.O.T.C 61th  
 - Endless Creation 29th  
 - instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)  
+- Blog: [Yeeeeee~](https://eomyoosang.github.io/)  
 
 
 #### My Tech Stack 📚
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/-mysql-419345?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-nginx-419345?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Nodejs-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -27,5 +28,4 @@
   <img alt="Spring" src="https://img.shields.io/badge/-spring-72b34f?style=flat-square&logo=spring&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-springboot-7baf4f?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-mysql-4e7499?style=flat-square&logo=mysql&logoColor=white" />
-  
 </p>
