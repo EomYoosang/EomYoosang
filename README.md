@@ -1,6 +1,6 @@
 ### Welcome ~👋
  
-<h3> I'm Yoosang. <img src="/profileImg.jpg" alt="profileImg" width="200px" />   </h3>
+<h3><img src="/profileImg.jpg" alt="profileImg" width="200px" /> Hi~ I'm Yoosang.    </h3>
 
 - Seoul National University of Science & Technology Computer Engineering  
 - R.O.T.C 61th  
