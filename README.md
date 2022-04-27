@@ -1,7 +1,13 @@
 ### Welcome ~👋
+#### I'm Yoosang.
+<img src="/github-profile.jpg" alt="profileImg" align="left" width="200px" />   
+- Seoul National University of Science & Technology Computer Engineering
+- R.O.T.C 61th
+- Endless Creation 29th
+- instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)
 
-<img src="/github-profile.jpg" alt="profileImg" align="left" width="200px" />  
 
+#### My Tech Stack 📚
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white" />
