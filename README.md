@@ -30,4 +30,5 @@
   <img alt="Spring" src="https://img.shields.io/badge/-spring-72b34f?style=flat-square&logo=spring&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-springboot-7baf4f?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-mysql-4e7499?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-swagger-77992d?style=flat-square&logo=swagger&logoColor=white" />
 </p>
