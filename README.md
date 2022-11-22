@@ -1,6 +1,6 @@
-<body>
+<body style="justify-content : center;">
  
-<div style="width:500px; margin: auto;">
+<div style="width: 500px;">
 
 <h3>Welcome ~👋</h3>
  
