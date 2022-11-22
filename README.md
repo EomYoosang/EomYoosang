@@ -1,6 +1,6 @@
 <html>
  
-<body style="width:70%; align:center">
+<body style="width:600px; align:center">
 
 <h3>Welcome ~👋 </h3>
  
