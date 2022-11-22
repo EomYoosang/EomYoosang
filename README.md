@@ -1,6 +1,6 @@
-<html>
+<body style="width:600px; text-align:center">
  
-<body style="width:600px; align:center">
+<div>
 
 <h3>Welcome ~👋 </h3>
  
@@ -47,6 +47,6 @@
   <img alt="Swagger" src="https://img.shields.io/badge/-swagger-77992d?style=flat-square&logo=swagger&logoColor=white" />
 </p>
  
-</body>
+</div>
 
-</html>
+</body>
