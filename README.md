@@ -1,4 +1,6 @@
-<body>
+<html>
+ 
+<body style="width:70%; align:center">
 
 <h3>Welcome ~👋 </h3>
  
@@ -46,3 +48,5 @@
 </p>
  
 </body>
+
+</html>
