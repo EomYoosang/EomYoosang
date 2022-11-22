@@ -1,4 +1,4 @@
-<center>
+<center width="70%">
  
 ### Welcome ~👋
  
