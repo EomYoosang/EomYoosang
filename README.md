@@ -1,8 +1,8 @@
-<body style="width:600px; text-align:center">
+<body>
  
-<div>
+<div style="width:500px; margin: auto;">
 
-<h3>Welcome ~👋 </h3>
+<h3>Welcome ~👋</h3>
  
 <h3>Hi~ I'm Yoosang. </h3>
 <img src="/KakaoTalk_Photo_2022-11-23-02-04-08.jpeg" alt="KakaoTalk_Photo_2022-11-23-02-04-08.jpeg" width="400px" />  
