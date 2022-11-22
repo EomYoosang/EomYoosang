@@ -1,7 +1,7 @@
 ### Welcome ~👋
  
 <h3>Hi~ I'm Yoosang. </h3>
-<img src="/profileImg.jpg" alt="profileImg" width="200px" />  
+<img src="/profileImg.jpg" alt="KakaoTalk_Photo_2022-11-23-02-04-08.jpeg" width="200px" />  
 
 - Seoul National University of Science & Technology Computer Engineering  
 - R.O.T.C 61th
