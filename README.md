@@ -1,6 +1,6 @@
 <body>
 
-### Welcome ~👋
+<h3>Welcome ~👋 </h3>
  
 <h3>Hi~ I'm Yoosang. </h3>
 <img src="/KakaoTalk_Photo_2022-11-23-02-04-08.jpeg" alt="KakaoTalk_Photo_2022-11-23-02-04-08.jpeg" width="400px" />  
@@ -11,7 +11,7 @@
 - instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)  
 - Blog: [Yeeeeee~](https://eomyoosang.github.io/)  
 
-#### Favorite 🖥
+<h4>Favorite 🖥</h4>
 <p width="70%">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white" />
@@ -22,7 +22,7 @@
   <img alt="Swagger" src="https://img.shields.io/badge/-swagger-77992d?style=flat-square&logo=swagger&logoColor=white" />
 </p>
 
-#### My Tech Stack 📚
+<h4>My Tech Stack 📚</h4>
 <p style="width:70%;">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white" />
