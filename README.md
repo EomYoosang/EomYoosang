@@ -14,7 +14,7 @@
 - Blog: [Yeeeeee~](https://eomyoosang.github.io/)  
 
 #### Favorite 🖥
-<p width="600">
+<p width="70%">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -25,7 +25,7 @@
 </p>
 
 #### My Tech Stack 📚
-<p width="600">
+<p width="70%">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-nginx-419345?style=flat-square&logo=nginx&logoColor=white" />
