@@ -11,7 +11,7 @@
 - R.O.T.C 61th
 - Endless Creation 29th  
 - instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)  
-- Blog: [Yeeeeee~](https://eomyoosang.github.io/)  
+- Blog: [군인의 개발일지](https://velog.io/@eomyoosang)  
 
 <h4>Favorite 🖥</h4>
 <p width="70%">
