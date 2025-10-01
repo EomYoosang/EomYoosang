@@ -9,7 +9,8 @@
 
 - Seoul National University of Science & Technology Computer Engineering  
 - R.O.T.C 61th
-- Endless Creation 29th  
+- Endless Creation 29th
+- SSAFY 14th
 - instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)  
 - Blog: [군인의 개발일지](https://velog.io/@eomyoosang)  
 
