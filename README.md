@@ -12,7 +12,7 @@
 - Endless Creation 29th
 - SSAFY 14th
 - instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)  
-- Blog: [군인의 개발일지](https://velog.io/@eomyoosang)  
+- Blog: [에잇 전역하지 말걸](https://velog.io/@eomyoosang)  
 
 <h4>Favorite 🖥</h4>
 <p width="70%">
