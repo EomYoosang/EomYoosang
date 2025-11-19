@@ -48,7 +48,7 @@
 ## 📊 Statistics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dbtkd1801&show_icons=true&theme=transparent" height = "195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eomyoosang&show_icons=true&theme=transparent" height = "195px"/>
   <a href="https://solved.ac/dbtkd37">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbtkd37"/>
   </a>
