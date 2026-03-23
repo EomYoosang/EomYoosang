@@ -12,7 +12,8 @@
 - Endless Creation 29th
 - SSAFY 14th
 - instagram: [@Yeeeeeeys](https://www.instagram.com/yeeeeeeys/)  
-- Blog: [yoosang.log](https://velog.io/@eomyoosang)  
+- Blog: [yoosang.log](https://velog.io/@eomyoosang)
+- Portfolio: [portfolio](https://eomyoosang.github.io)
 
 <h4>Favorite 🖥</h4>
 <p width="70%">
